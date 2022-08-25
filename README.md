@@ -32,12 +32,13 @@ ________________________________________________________________________________
 🔯Model Selection: Based on the 'recall' value, I have chosen RandomForestClassifier among the Classifiers KNeighborsClassifier, SVC, and XGBClassifier.
 
 🔯Tuned the Hyperparameter of the Selected Classifier.
+
 🔯Metrics: Recall=87.85%, roc_auc=0.81 
 
 🌪Data Reporting
 _________________________________________________________________________________________________________________________________________________________________
 
-🔯I have created the dashboard and published it on tableau public
+🔯I have created the dashboard and published it on tableau public.
 
 🔯https://public.tableau.com/app/profile/diana.laveena.dsouza/viz/health_Projects/HealthAnalysis?publish=yes
 
